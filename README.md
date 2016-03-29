@@ -1,0 +1,1 @@
+Little silly project to try a couple of things out on SBT
